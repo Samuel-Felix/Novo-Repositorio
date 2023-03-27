@@ -179,6 +179,7 @@ footer p {
     .main-contents h1 {
         font-size: 50px;
         padding-top: 200px;
+        text-align: center;
     }
     .main-contents h3 {
         font-size: 30px;
