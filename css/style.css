@@ -177,12 +177,13 @@ footer p {
         padding: 27px;
     }
     .main-contents h1 {
-        font-size: 50px;
+        font-size: 47px;
         padding-top: 200px;
-        text-align: center;
+        
     }
     .main-contents h3 {
-        font-size: 30px;
+        font-size: 27px;
+        text-align: center;
     }
     .main-contents .no-mobile {
         font-size: 16px;
