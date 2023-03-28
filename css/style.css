@@ -177,12 +177,12 @@ footer p {
         padding: 27px;
     }
     .main-contents h1 {
-        font-size: 47px;
+        font-size: 40px;
         padding-top: 200px;
         text-align: center;
     }
     .main-contents h3 {
-        font-size: 27px;
+        font-size: 20px;
         text-align: center;
     }
     .main-contents .no-mobile {
@@ -190,7 +190,7 @@ footer p {
         color: #eeeeee;
     }
     button {
-        margin: 30px 0px 0px 40px;
+        margin: 20px 0px 0px 40px;
         padding: 5px;
         font-size: 25px;
         width: 220px;
